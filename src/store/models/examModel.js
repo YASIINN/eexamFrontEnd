@@ -1,0 +1,23 @@
+import moment from "moment";
+export default {
+    id:0,
+    name: "",
+    optCount:4,
+    qCount:10,
+    beginHour:"10:00",
+    endHour: "12:00",
+    examDate: moment().format("YYYY-MM-DD"),
+    exam_type_id:0,
+    exam_type: {},
+    lesson_id:0,
+    lesson:{},
+    school_id:0,
+    school: {},
+    class_id:0,
+    class:{},
+    branch_id:0,
+    branch:{},
+    beginDate: "",
+    endDate:"",
+    checkExam: "",
+}
