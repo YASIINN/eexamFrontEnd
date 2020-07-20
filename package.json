@@ -14,7 +14,7 @@
     "bootstrap-vue": "2.0.0-rc.15",
     "core-js": "2.6.5",
     "flatpickr": "4.5.7",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "md5": "^2.2.1",
     "moment": "^2.24.0",
     "nouislider": "13.1.4",
