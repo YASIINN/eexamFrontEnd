@@ -23,7 +23,7 @@
     "register-service-worker": "1.6.2",
     "sweetalert2": "^9.5.4",
     "timelite": "^1.0.0",
-    "underscore": "^1.9.2",
+    "underscore": "^1.12.1",
     "vue": "2.6.6",
     "vue-clipboard2": "0.3.0",
     "vue-flatpickr-component": "8.1.2",
